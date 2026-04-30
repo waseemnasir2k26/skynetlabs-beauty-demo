@@ -1,0 +1,279 @@
+{
+  "brand": {
+    "name": "SkynetLabs Med-Spa Demo",
+    "tagline": "Clinical aesthetics for the Miami climate"
+  },
+  "niche": "beauty",
+  "niche_label": "Beauty + Med-Spa",
+  "location": {
+    "city": "Miami",
+    "region": "FL",
+    "country": "US"
+  },
+  "owner": {
+    "name": "Waseem Nasir",
+    "agency": "SkynetLabs",
+    "fiverr_url": "https://www.fiverr.com/agencies/skynetjoellc",
+    "hub_url": "https://skynetjoe.com",
+    "contact_email": "waseembali2k26@gmail.com",
+    "contact_phone": "+1-305-555-0148"
+  },
+  "palette": {
+    "bg": "#F4EBDF",
+    "surface": "#E8DCC9",
+    "ink": "#2A2520",
+    "accent": "#A85843",
+    "detail": "#7C8473"
+  },
+  "fonts": {
+    "display": "Cormorant Garamond",
+    "body": "Inter",
+    "mono": null
+  },
+  "dark_mode": false,
+  "hero": {
+    "kind": "photo",
+    "h1": "Skin, *returned*.",
+    "sub": "Clinical aesthetics for the Miami climate. MD-led. Membership-led.",
+    "photo_url": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1920&auto=format&fit=crop&q=80",
+    "photo_credit": "Photo by Content Pixie on Unsplash",
+    "overlay": "rgba(40,32,24,0.30)",
+    "focal_point": "center"
+  },
+  "hero_3d": null,
+  "copy": {
+    "primary_cta": "Book your skin consultation →",
+    "primary_cta_href": "#contact",
+    "secondary_cta": "Reserve at Brickell or Design District",
+    "secondary_cta_href": "tel:+13055550148",
+    "sticky_mobile_bar": "Reserve a consultation — (305) 555-0148"
+  },
+  "trust_strip": [
+    "MD-Led · Board-Certified Director",
+    "2,200+ Verified 5-Star Reviews",
+    "Allergan Diamond · Galderma Top 250",
+    "FDA-Cleared Device Library",
+    "Cleanroom-Grade Treatment Suites"
+  ],
+  "service_area": {
+    "primary_city": "Miami, FL",
+    "service_area_cities": [
+      "Brickell, FL",
+      "Downtown Miami, FL",
+      "Miami Beach, FL",
+      "Mid-Beach, FL",
+      "South Beach, FL",
+      "Bal Harbour, FL",
+      "Surfside, FL",
+      "Sunny Isles, FL",
+      "Aventura, FL",
+      "Coral Gables, FL",
+      "Coconut Grove, FL",
+      "Pinecrest, FL",
+      "Palmetto Bay, FL",
+      "Key Biscayne, FL",
+      "Doral, FL",
+      "Miami Lakes, FL",
+      "Hialeah, FL",
+      "Miami Shores, FL",
+      "North Miami, FL",
+      "North Miami Beach, FL",
+      "Edgewater, FL",
+      "Wynwood, FL",
+      "Design District, FL",
+      "Little Havana, FL",
+      "Coral Way, FL",
+      "Westchester, FL",
+      "Kendall, FL",
+      "Cutler Bay, FL",
+      "Homestead, FL",
+      "Fort Lauderdale, FL"
+    ]
+  },
+  "services": [
+    {
+      "slug": "skin-rebalancing",
+      "title": "Clinical Skin Rebalancing",
+      "blurb": "Custom medical-grade facial protocols built around a digital skin scan, environmental stress assessment (Miami sun, salt, humidity), and a six-month treatment arc. We do not sell single facials — we build skin restoration plans with measurable biomarker improvement at three-month intervals."
+    },
+    {
+      "slug": "tox-soft-tissue",
+      "title": "Tox + Soft-Tissue Sculpting",
+      "blurb": "Botox, Dysport, and Daxxify dosed by a board-certified injector who studies under the practice MD — never an esthetician with a needle license. Filler artistry across Restylane, Juvéderm, RHA, and Versa lines with a strict commitment to natural anatomy. We do not deliver overfilled-face."
+    },
+    {
+      "slug": "biostimulators",
+      "title": "Bio-Stimulator Collagen Therapy",
+      "blurb": "Sculptra and Radiesse biostimulator protocols for facial volume restoration, neckline restoration, and hand rejuvenation. Results build over 90 to 120 days and typically last 18 to 24 months. Consultation includes 3D scanning and treatment-plan visualization before any product is purchased."
+    },
+    {
+      "slug": "peels-resurfacing",
+      "title": "Custom Peels + Resurfacing",
+      "blurb": "TCA peels, ZO chemical peels, Morpheus8 RF microneedling, BBL/IPL photofacials, and CO2 fractional resurfacing — selected by indication, not by what is in stock. Miami melasma, post-inflammatory hyperpigmentation, and sun damage require specific protocols that cannot be templated. We design yours."
+    },
+    {
+      "slug": "iv-hydration",
+      "title": "IV Hydration + Longevity",
+      "blurb": "Medical-grade IV protocols for hydration, immune support, post-procedure recovery, and longevity (NAD+, glutathione, peptide co-administration). Administered by RN under MD supervision in private suites. We do not run IV bars — this is clinical infusion therapy with proper oversight."
+    },
+    {
+      "slug": "membership",
+      "title": "Member Skin-Health Program",
+      "blurb": "Quarterly clinical skin reassessment, member pricing on all services, included monthly hydrating treatment, and direct messaging access to your injector and esthetician between visits. Members invest in the relationship, not à la carte transactions. The skin shows the difference at year two."
+    }
+  ],
+  "process": [
+    {
+      "n": 1,
+      "title": "Skin consultation",
+      "blurb": "60-minute intake including digital VISIA imaging, MD-led assessment, and treatment-plan options at three commitment levels."
+    },
+    {
+      "n": 2,
+      "title": "Treatment design",
+      "blurb": "Written plan, line-item investment, and timeline visualization. We name the products, doses, and devices."
+    },
+    {
+      "n": 3,
+      "title": "Clinical delivery",
+      "blurb": "All injection and energy-device work performed in cleanroom-grade suites. Documented before/after photography with consistent lighting."
+    },
+    {
+      "n": 4,
+      "title": "Quarterly review",
+      "blurb": "Re-imaging, treatment-plan adjustments, and longitudinal tracking of pigmentation, elasticity, and vascular biomarkers."
+    }
+  ],
+  "case_study": {
+    "title": "Brickell Member — Three-Year Skin Restoration Arc",
+    "photo_url": "https://images.unsplash.com/photo-1573461160327-b450ce3d8e7f?w=1920&auto=format&fit=crop&q=80",
+    "quote": "I have been a member for three years. The team has slowly addressed melasma, restored volume that the Miami sun took, and I look like a better-rested version of myself — never a different person. That is the assignment.",
+    "stats": [
+      {
+        "value": "Y3",
+        "label": "Membership tenure"
+      },
+      {
+        "value": "0 filler-face",
+        "label": "Natural-result outcome"
+      },
+      {
+        "value": "Quarterly",
+        "label": "Skin reassessment"
+      }
+    ]
+  },
+  "testimonials": [
+    {
+      "quote": "I had a 75-minute lunch break and they did my Tox in twenty minutes with the precision the Manhattan dermatologist I used to fly to never managed in two hours. I walked back into a board meeting with no swelling and zero downtime. Different category of clinic.",
+      "name": "Carolina F.",
+      "role": "Brickell executive",
+      "city": "Miami, FL"
+    },
+    {
+      "quote": "Pre-yacht-week skin reset every June for four years. They handle the IV hydration, peel, and hydrating facial in a single afternoon and I look genuinely different on day one of the trip. Friends ask, every year, what I did. I refer them and they become members.",
+      "name": "Isabela M.",
+      "role": "Yacht-week traveler",
+      "city": "Coconut Grove, FL"
+    },
+    {
+      "quote": "Three years in and I have never been talked into a treatment I did not need. The MD has actively told me to skip filler when she thought my face did not need more — that single conversation made me a member for life.",
+      "name": "Patricia D.",
+      "role": "Long-term member",
+      "city": "Coral Gables, FL"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How is your tox priced — per area or per unit?",
+      "a": "Per unit. We dose precisely to your anatomy and aesthetic goal — 18 units for one patient may be 32 units for another, depending on muscle mass and desired outcome. Per-area pricing rewards underdosing or overdosing depending on which way the math swings, neither of which is in your interest."
+    },
+    {
+      "q": "Will I look done or natural?",
+      "a": "Natural. The practice MD's standard is restoration of facial proportion to your own anatomy, not the imposition of a trend. We turn down patients requesting overfilled outcomes — and we have. Our before/after gallery is curated specifically to demonstrate the natural-result aesthetic."
+    },
+    {
+      "q": "How is humidity factoring into my treatment plan?",
+      "a": "Substantially. Miami's climate accelerates sebaceous activity, hyperpigmentation, and post-procedure healing patterns. Local treatment plans should differ materially from what works in dry climates. We design around the climate you live in — not protocols copied from a Manhattan or Beverly Hills practice."
+    },
+    {
+      "q": "Do you have an MD on-site?",
+      "a": "Yes. The practice MD is on-site for all initial consultations and supervises every clinical session. Injection work is performed by either the MD or board-certified PAs/NPs trained directly under the MD — never by aesthetician-led injection."
+    },
+    {
+      "q": "What is the recovery for biostimulators?",
+      "a": "Sculptra and Radiesse sessions cause minimal downtime — typically 24 to 48 hours of mild swelling. Final results emerge over 90 to 120 days as new collagen forms. We design treatment plans around your social calendar; there is always a window when biostimulator work is appropriate."
+    },
+    {
+      "q": "Can I combine treatments in one visit?",
+      "a": "Often, yes — and this is one of the membership benefits. We schedule combination protocols (peel + Tox, microneedling + IV hydration) in a single 90-minute visit when clinically appropriate. The savings is in your time, not a discount."
+    },
+    {
+      "q": "Do you offer membership pricing?",
+      "a": "Yes. Members receive 15% to 25% off all services depending on tier, complimentary monthly hydrating treatment, and direct messaging access to the clinical team. Membership is a long-term skin-health relationship, not a discount card."
+    },
+    {
+      "q": "How do you handle melasma in Miami sun?",
+      "a": "Carefully. Miami melasma requires a multi-modal protocol: topical regimens (hydroquinone, tranexamic acid, cysteamine), avoidance of aggressive resurfacing during high-sun months, and milder maintenance peels in summer with deeper treatment in October through April. We do not laser melasma in July — and we will explain why if asked."
+    }
+  ],
+  "lead_magnet": {
+    "title": "The Miami Skin Climate Field Guide",
+    "subtitle": "Year-round skincare protocol for South Florida humidity, sun, and salt. 14 pages.",
+    "cta": "Get the guide →"
+  },
+  "photos": {
+    "hero": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1920&auto=format&fit=crop&q=80",
+    "gallery": [
+      "https://images.unsplash.com/photo-1573461160327-b450ce3d8e7f?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1571875257727-256c39da42af?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1620331317026-7d4caf48cad7?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1612270043134-b8a4416bd1f1?w=1280&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1542884748-2b87b36c6b90?w=1280&auto=format&fit=crop&q=80"
+    ]
+  },
+  "competitors": [
+    "https://www.monacomedspa.com",
+    "https://avivamedicalspa.com",
+    "https://www.luxmedspabrickell.com",
+    "https://avabello.com/med-spa",
+    "https://www.thesurfacelevel.com"
+  ],
+  "anti_patterns": [
+    "Hot-pink/gold-glitter color schemes",
+    "Botox $9/unit price banners",
+    "Before/after carousels of overfilled lips"
+  ],
+  "modules": {
+    "booking_calendar": true,
+    "service_area_map": true,
+    "photo_gallery": true,
+    "faq": true,
+    "lead_magnet": true
+  },
+  "contact": {
+    "form_endpoint": "https://api.web3forms.com/submit",
+    "calendly_url": "https://calendly.com/skynetlabs-demo/15min"
+  },
+  "seo": {
+    "title": "Med-Spa Miami | MD-Led Clinical Aesthetics | SkynetLabs",
+    "description": "Clinical aesthetics for the Miami climate. MD-led, Allergan Diamond, FDA-cleared device library. Brickell + Design District.",
+    "keywords": [
+      "med spa miami",
+      "botox miami",
+      "filler miami",
+      "clinical skincare miami",
+      "miami melasma treatment"
+    ],
+    "noindex": true
+  },
+  "demo_disclosure": {
+    "enabled": true,
+    "fiverr_cta_url": "https://www.fiverr.com/agencies/skynetjoellc?utm_source=demo&utm_campaign=beauty",
+    "contact_cta_url": "https://skynetjoe.com/contact?utm_source=demo&utm_campaign=beauty",
+    "portfolio_url": "https://skynetjoe.com/portfolio"
+  }
+}
